@@ -21,3 +21,27 @@
     ]
   }
 ]
+
+[
+  {
+    "id": "regular_show",
+    "title": "Regular Show",
+    "description": "Mordecai ve Rigby, bir parkta bekçi olarak çalışan iki arkadaştır. Benson'dan azar yemeden işten kaytarmak için her yolu denerler ve bu durum genellikle gerçeküstü, uzay-zamanı büken çılgın maceralarla sonuçlanır.",
+    "posterUrl": "https://w0.peakpx.com/wallpaper/398/497/HD-wallpaper-regular-show.jpg",
+    "backdropUrl": "https://wallpapercave.com/wp/nzhzv1x.jpg",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 2,
+            "title": "Just Set Up the Chairs (Sandalyeleri Dizin Yeter)",
+            "streamUrl": "https://novaorion7-jacob-stream.hf.space/stream/6?hash=bd28bb",
+            "duration": "11 dk",
+            "description": "Bölümün Özeti:Parkta verilecek bir çocuk doğum günü partisi için Benson, çalışanlara çeşitli görevler dağıtır. Mordecai ve Rigby'ye sadece sandalyeleri dizme görevi verilir çünkü Benson onlara önemli bir iş emanet edemeyeceğini düşünür. İkili, tembel olmadıklarını ve sorumluluk alabildiklerini kanıtlamak için bu sıkıcı işi kaytarmadan bitirmeye çalışırlar.Olay Akışı:Görev Dağılımı: Benson, diğer çalışanlara eğlence ve şişme şato gibi görevler verirken Mordecai ve Rigby'yi basit bir işle görevlendirir.Kanıtlama Çabası: İkili, Benson'a güvenilir olduklarını kanıtlamak için işi ciddiye almaya karar verir.Masa Başına Geçiş: Rigby hemen hızlıca tüm sandalyeleri üst üste yığarak işin kolayına kaçmak ister. Ancak Mordecai daha düzenli bir şekilde sandalyeleri dizmeleri gerektiğinde ısrar eder.Sonuç: Sandalyeleri kusursuzca dizebileceklerini göstermeye çalışırken işler her zamanki gibi kontrolden çıkar."
+          }
+        ]
+      }
+    ]
+  }
+]
