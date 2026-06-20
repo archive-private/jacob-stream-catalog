@@ -29,16 +29,26 @@
     ],
     "gallery": []
   },
-  {
+    {
     "id": "adult",
     "title": "Les Alexis Texas- Allie Haze",
     "description": "+18 warning",
     "posterUrl": "https://thumbs.dreamstime.com/b/sign-warning-symbol-isolated-white-background-over-plus-censored-eighteen-age-older-forbidden-adult-content-sign-warning-144828426.jpg",
     "backdropUrl": "https://imggen.eporner.com/15901241/1920/1080/1.jpg",
     "type": "Adult",
-    "streamUrl": "https://novaorion7-jacob-stream.hf.space/stream/7?hash=2e16d0",
-    "duration": "37 dk",
-    "seasons": [],
-    "gallery": []
+    "gallery": [],
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Les Alexis Texas- Allie Haze",
+            "streamUrl": "https://novaorion7-jacob-stream.hf.space/stream/7?hash=2e16d0",
+            "duration": "37 dk",
+            "description": "+18 warning"
+          }
+        ]
+      }
+    ]
   }
-]
